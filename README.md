@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chanya Himasaree</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-### MY TOPIC
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanyawickramarathna&label=Profile%20views&color=0e75b6&style=flat" alt="chanyawickramarathna" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chanyawickramarathna&label=Profile%20views&color=0e75b6&style=flat" alt="chanyawickramarathna" /> </p>
+###My Topic
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **java**
